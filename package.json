@@ -1,0 +1,21 @@
+{
+  "name": "student-mangment-system",
+  "types": "module",
+  "version": "1.0.0",
+  "description": "Student mangment system for students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "node": "^21.1.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "student": "^1.0.0"
+  }
+}
